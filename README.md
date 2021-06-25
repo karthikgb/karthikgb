@@ -13,6 +13,7 @@ Things to do :
 - 🤔  GOALS: Contribute more to open source Projects
 - 💬  Ask me about any Questions Related to front end Technology
 
+
 ### Connect with me:
 
 [<img align="left" alt="Sabesan" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/karthikgb/)
@@ -21,35 +22,30 @@ Things to do :
 
 ---
 
+
+<p float="left">
+  <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" width="100" />
+  <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" width="100" /> 
+  <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" width="100" />
+</p>
+
+
+
+
+
 ### Languages and Tools:
-[<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
+<p float="left">
 
-[<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[<img alt="angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
-](https://angular.io/)
-
-[<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-](https://www.python.org/)
-
-[<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-](https://www.typescriptlang.org/)
-
-[<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-[<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-](https://sass-lang.com/)
-
-[<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-](https://nodejs.org/en/)
-
-[<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-](https://github.com/)
+[<code><img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /><code>](https://code.visualstudio.com/)
+[<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" /><code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code><img alt="angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" /><code>](https://angular.io/)
+[<code><img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"><code>](https://www.python.org/)
+[<code><img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png"><code>](https://www.typescriptlang.org/)
+[<code><img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png"><code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code><img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png"><code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code><img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png"><code>](https://sass-lang.com/)
+[<code><img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png"><code>](https://nodejs.org/en/)
+[<code><img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"><code>](https://github.com/)
 
 ---
 
@@ -58,8 +54,9 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=karthikgb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=karthikgb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
----
 
+---
+  
 <!--
 **karthikgb/karthikgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
