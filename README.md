@@ -35,9 +35,11 @@ Things to do :
 [<code><img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png"><code>](https://nodejs.org/en/)
 [<code><img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"><code>](https://github.com/)
 
+<br />
+ 
 ---
   
-### Note
+### Note :
   
 Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
