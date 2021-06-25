@@ -24,12 +24,15 @@ Things to do :
 
 ### Languages and Tools:
 
-[<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" /><code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  
-[<code><img alt="angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" /><code>](https://angular.io/)
-  
-[<code><img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"><code>](https://www.python.org/)
-  
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
+<code>](https://angular.io/)
+[<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+<code>](https://www.python.org/)
 [<code>
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 <code>](https://www.typescriptlang.org/)
