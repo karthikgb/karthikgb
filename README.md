@@ -25,8 +25,11 @@ Things to do :
 ### Languages and Tools:
 
 [<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" /><code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  
 [<code><img alt="angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" /><code>](https://angular.io/)
+  
 [<code><img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"><code>](https://www.python.org/)
+  
 [<code><img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png"><code>](https://www.typescriptlang.org/)
 [<code><img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png"><code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code><img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /><code>](https://code.visualstudio.com/)
