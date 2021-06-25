@@ -35,14 +35,10 @@ Things to do :
 [<code><img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png"><code>](https://nodejs.org/en/)
 [<code><img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"><code>](https://github.com/)
 
-<br />
-
 ---
-
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=karthikgb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=karthikgb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
 
 ---
