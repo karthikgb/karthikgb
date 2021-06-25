@@ -26,34 +26,34 @@ Things to do :
 
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-<code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
 <img alt="angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
-<code>](https://angular.io/)
+</code>](https://angular.io/)
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-<code>](https://www.python.org/)
+</code>](https://www.python.org/)
 [<code>
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-<code>](https://www.typescriptlang.org/)
+</code>](https://www.typescriptlang.org/)
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-<code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-<code>](https://code.visualstudio.com/)
+</code>](https://code.visualstudio.com/)
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-<code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-<code>](https://sass-lang.com/)
+</code>](https://sass-lang.com/)
 [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-<code>](https://nodejs.org/en/)
+</code>](https://nodejs.org/en/)
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-<code>](https://github.com/)
+</code>](https://github.com/)
 
 ---
 
