@@ -35,31 +35,13 @@ Things to do :
 [<code><img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png"><code>](https://nodejs.org/en/)
 [<code><img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"><code>](https://github.com/)
 
-<br />
- 
 ---
 
-## 📝 Latest Blog Posts
+### Note
 
-These are my latest posts on [Medium](https://medium.com/@mehulkothari05) and [Dev.to](https://dev.to/mehulk05):
+Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-### Medium
-
-<!-- MEDIUM:START -->
-- [News App using ReactJS (Parsing XML to JSON)](https://codeburst.io/news-app-using-reactjs-f9752d7ab6ce)
-- [Creating a Medium-Like Blog App Using Angular 9 and Firebase](https://codeburst.io/blogging-app-using-angular-9-and-firebase-98e36168d850)
-- [COVID 19 Tracker (Statistics) app Using Angular](https://codeburst.io/covoid-19-tracker-statistics-app-using-angular-2358347b3d1f)
-- [How to Host Your Angular App on GitHub Pages for Free](https://medium.com/analytics-vidhya/how-to-host-your-angular-projects-on-github-and-000webhost-ab1861e5c8dd)
-- [Spring Boot + Angular 8 CRUD Example](https://medium.com/analytics-vidhya/spring-boot-angular-8-crud-example-8aeafd47b54)
-<!-- MEDIUM:END -->
-
-
----
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=mehulk05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=mehulk05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=karthikgb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=karthikgb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 ---
